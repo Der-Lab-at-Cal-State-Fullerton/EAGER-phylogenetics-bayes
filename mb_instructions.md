@@ -121,17 +121,12 @@ Open the consensus tree in FigTree
 1. Which clades are strongly supported (>0.95)?
 2. Which are uncertain?
 3. Are there polytomies?
-4. What might cause uncertainty?
-    * limited data
-    * model mismatch
-    * short sequences
 
 ## Part 5: Bayesian reflection
 ### Concepts
 1. Why does Bayesian phylogenetics output many trees?
 2. Why not just one best tree?
 3. What does posterior probability represent?
-4. How is this different from bootstrap support?
 
 ### Algorithm
 1. Why do we need heated chains?
