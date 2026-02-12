@@ -78,7 +78,7 @@ Get into groups of 3 and choose a model for each group
 ### Groups
 * **Group A**: `MrBayes > lset nst=1 rates=equal`
 * **Group B**: `MrBayes > lset nst=2 rates=gamma`
-* **Group C**: `MrBayes > lset nst=16 rates=invgamma`
+* **Group C**: `MrBayes > lset nst=6 rates=invgamma`
 
 ### Run
 ```
