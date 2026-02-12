@@ -9,8 +9,9 @@
 
 ## Part 1: Simple Tutorial
 ### start MrBayes
+Output to std out and save to a file.
 ```
-mb
+mb | tee <output_filename>.log
 ```
 
 ### Load the data
